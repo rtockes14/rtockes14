@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rtockes14
-- 👀 I’m interested in expanding my knowledge of all things computational, but most notably devices programmed around the arduino development boards and integrating hardware for custom fabricated furniture and devices...
-- 🌱 I’m currently learning C (as it's relative and applicable to hardware applications) ...
+- 👋 Hi, I’m Randall Tockes
+- I'm a big fan of embedded systems.
+- 🌱 I’m currently developing in C#, but have some background in C, C++, Python.
 - 💞️ I'd like to collaborate eventually :)
 - 📫 How to reach me @ madebyedgewood.com    ...
 
