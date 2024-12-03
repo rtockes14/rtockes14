@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Randall Tockes
+- 👋 Hi, I’m Randall
 - I'm a big fan of embedded systems.
 - 🌱 I’m currently developing in C#, but have some background in C, C++, Python.
 - 💞️ I'd like to collaborate eventually :)
